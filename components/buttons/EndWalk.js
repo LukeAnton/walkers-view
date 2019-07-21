@@ -1,6 +1,6 @@
 import React from "react";
 import { Button } from "react-native-paper";
-//
+
 const EndWalk = () => {
   return (
     <Button
